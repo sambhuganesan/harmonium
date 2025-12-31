@@ -1,6 +1,6 @@
 This is a playable harmonium. 
 
-The playable keys are 1 - 0, a - z, ,, ., /
+The playable keys are 1 - 0, a - z, (, . /)
 
 You can tilt your screen as the bellows to control the sustain of the note and the volume of the note.
 
